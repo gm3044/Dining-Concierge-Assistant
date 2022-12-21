@@ -1,4 +1,4 @@
-# CCBD_FALL2022 Assignment 1 Dining Concierge Assistant
+# FALL2022 Assignment 1 Dining Concierge Assistant
 
 Customer Service is a core service for a lot of businesses around the world and it is getting 
 disrupted at the moment by Natural Language Processing-powered applications. In this first 
@@ -9,7 +9,7 @@ preferences that you provide the chatbot with through conversation.
 
 
 
-![plot](https://github.com/gm3044/COMS6998_CCBD_Assignment1/blob/main/Assignment%201%20Dining%20Concierge%20Assistant/Architecture%20diagram.png)
+![plot](Assignment 1 Dining Concierge Assistant/chatbot-suggestion-main/high_level_archiecture_diagram.png)
 
 ## Team: asura shen and Ganghua Mei
 
