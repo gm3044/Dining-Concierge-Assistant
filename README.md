@@ -8,7 +8,7 @@ preferences that you provide the chatbot with through conversation.
 
 
 
-![plot]([https://github.com/gm3044/COMS6998_CCBD_Assignment1/blob/02d7dbe9dac637a0f6712f948ad4f8fd96386d33/Assignment%201%20Dining%20Concierge%20Assistant/chatbot-suggestion-main/high_level_archiecture_diagram.png](https://github.com/gm3044/Dining-Concierge-Assistant/blob/1fd55ee119eab18c47ad877419704d6be5fe0ad0/high_level_archiecture_diagram.png))
+![plot](https://github.com/gm3044/Dining-Concierge-Assistant/blob/main/high_level_archiecture_diagram.png)
 
 ## Team: Asura Shen and Ganghua Mei
 
