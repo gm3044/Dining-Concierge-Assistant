@@ -1,6 +1,6 @@
 # COMS6998 Cloud Computing and Big Data FALL2022
 ## Assignment 1 Dining Concierge Assistant
-## Team: Asura Shen and Ganghua Mei
+### Team: Asura Shen and Ganghua Mei
 
 Customer Service is a core service for a lot of businesses around the world and it is getting 
 disrupted at the moment by Natural Language Processing-powered applications. In this first 
