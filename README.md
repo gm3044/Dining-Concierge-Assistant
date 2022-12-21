@@ -1,4 +1,6 @@
-# FALL2022 Assignment 1 Dining Concierge Assistant
+# COMS6998 Cloud Computing and Big Data 
+## FALL2022 Assignment 1 Dining Concierge Assistant
+## Team: Asura Shen and Ganghua Mei
 
 Customer Service is a core service for a lot of businesses around the world and it is getting 
 disrupted at the moment by Natural Language Processing-powered applications. In this first 
@@ -10,6 +12,5 @@ preferences that you provide the chatbot with through conversation.
 
 ![plot](https://github.com/gm3044/Dining-Concierge-Assistant/blob/main/high_level_archiecture_diagram.png)
 
-## Team: Asura Shen and Ganghua Mei
 
 ## S3 link: http://sahu-hw1.s3-website-us-east-1.amazonaws.com
