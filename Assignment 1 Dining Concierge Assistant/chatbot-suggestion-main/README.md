@@ -9,7 +9,7 @@ preferences that you provide the chatbot with through conversation.
 
 
 
-![plot(.https://github.com/gm3044/COMS6998_CCBD_Assignment1/blob/3685969bd740bee73afb3fced95e820537cb4d89/Assignment%201%20Dining%20Concierge%20Assistant/Architecture%20diagram.)
+![plot](https://github.com/gm3044/COMS6998_CCBD_Assignment1/blob/main/Assignment%201%20Dining%20Concierge%20Assistant/Architecture%20diagram.png)
 
 ## Team: asura shen and Ganghua Mei
 
